@@ -1,0 +1,34 @@
+.userList .ant-form-item-control{
+    line-height: 30px !important;
+}
+.userList .ant-form-item {
+    display: flex;
+}
+.userList .ant-row .ant-form-item{
+    margin-bottom: 0px;
+}
+ .userList .ant-form-item-label{
+    line-height: 30px !important;
+    padding-right:14px;
+}
+.userList .ant-input-group .ant-input{
+    float: none!important;
+    background: #f0f2f5;
+}
+.userList .ant-collapse .ant-collapse-item .ant-collapse-header .anticon {
+    left: initial;
+    right: 16px;
+}
+.userList .ant-collapse-item{
+    background: #fff!important;
+}
+.userList .ant-collapse-borderless > .ant-collapse-item{
+    border-bottom:none
+}
+.userList .utils{
+    border:1px solid #0ab4cb;
+    color:#0ab4cb;
+}
+.userList .utils:nth-child(2){
+    margin:0px 10px;
+}

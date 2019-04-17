@@ -1,0 +1,17 @@
+.patientList .ant-form-item-control{
+    line-height: 30px !important;
+}
+.patientList .ant-form-item {
+    display: flex;
+}
+.patientList .ant-row .ant-form-item{
+    margin-bottom: 0px;
+}
+.patientList .ant-form-item-label{
+    line-height: 30px !important;
+    padding-right:14px;
+}
+.patientList .ant-input-group .ant-input{
+    float: none;
+    background: #f0f2f5;
+}

@@ -1,0 +1,16 @@
+
+#AddData .ant-form-item{
+    margin-bottom: 0px;
+} 
+#AddData .ant-row{
+    display: flex;
+}
+.ant-select-selection{
+    width:212px;
+}
+.ant-form-item-label{
+    width:100px;
+}
+::-webkit-scrollbar{
+    display:block!important;
+}
